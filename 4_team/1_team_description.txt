@@ -1,0 +1,1 @@
+<p>We are a multidisciplinary team trying to model the development of the human brain and neurological disorders using 3D stem-cell derived technologies (brain organoids), comparative genomics, image analysis and Artificial Intelligence.</p>

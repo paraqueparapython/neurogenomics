@@ -1,0 +1,18 @@
+{
+  "research_line_1": {
+    "title": "1. Deciphering Dravet Syndrome pathophysiology (MICINN, LaCaixa).",
+    "description": "<p>In this project, we will focus in understanding the pathogenesis of DS, by leveraging the organoids potential to reproduce in-vitro the pathogenic events and further delve into the underlying implication of the DS the transcriptome and enhancerome. Moreover,  this approach will allow us to look for potential new drug targets that improve the imbalanced neuronal activity leading to this refractory epilepsy.</p>"
+  },
+  "research_line_2": {
+    "title": "2. Understanding the neuropathological effect of COVID-19 (3D4COVID, la Marató).",
+    "description": "<p>In this project we aim to ascertain the neurotropic and neurodegenerative potential of SARS-CoV-2, and to investigate the link between COVID-19 and AD risk. For this purpose, human brain organoids derived from iPSC and hESC from healthy, familial and sporadic AD, and from cognitively unimpaired adults at increased AD risk, will be exposed to SARS-CoV-2 and to plasma of severe COVID-19 patients. We will characterize the neuroinvasive potential of SARS-CoV-2 and its connection with the development or exacerbation of neurodegenerative disorders, such as AD.</p>"
+  },
+  "research_line_3": {
+    "title": "3. Establishing an AI method for drug testing using organoids (LaCaixa, AGAUR).",
+    "description": "<p>In this project we will obtain stem cells from patients to create brain organoids and use them to test the effects of drugs. To test how organoids react to each treatment, we will implement computer vision and artificial intelligence algorithms to examine changes in the morphology and structure of each organoid, evaluating the effectiveness and toxicity of drugs.</p>"
+  },
+  "research_line_4": {
+    "title": "4. Investigating the epigenomic relevance in human neurodevelopmental cell communication (Leujene, MICINN, chimp).",
+    "description": "<p>In this project we will dissect the specific non-cell autonomous molecular mechanisms that contribute to the pathogenesis of different developmental neuropathologies. We aim to shed light on the non-autonomous mechanisms contributing to those pathologies by generating chimeric brain organoids.</p>"
+  }
+}

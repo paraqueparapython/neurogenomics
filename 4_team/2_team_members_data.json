@@ -1,0 +1,38 @@
+{
+  "sandra": {
+    "name": "SANDRA ACOSTA",
+    "role": "Group leader",
+    "bio": "<p>I am a  developmental neurobiologist interested in undertanding how the human brain features arise during evolution and its implications in neurological disorders. As an assistant professor I lecture in human anatomy and embryology. As a scientist,  I enjoy tackling questions involving nature vs nurture unsolved questions of developmental biology. In my lab, we try to solve them (at least partially) with the array of novel technologies that we currently have available in our field, but also from others. I believe all experimental models are equally valuable just depend on the question. So, running from any dogma, the ones my lab currently focuses on are those which I think will answer the questions we pose them. You've read the current questions tackled in our lab, but we have plenty more awaiting for younger scientists to be unveiled. </p> Find more about me <a href='https://www.linkedin.com/in/sandra-acosta-6a537357/'>here</a>!",
+    "photo":"http://drive.google.com/uc?export=view&id=1-KsoViYy6yZlQkqWMSE0J9npc9C_IlTc"
+  },
+  "laura": {
+    "name": "LAURA GARCÍA",
+    "role": "Post-doctoral researcher",
+    "bio": "<p>I am graduated in Biotechnology and got my PhD in Neurosciences in 2020 at Aix-Marseille Université. My PhD was focused on unravelling the molecular mechanisms by which membrane-type matrix metalloproteinases participate to Alzheimer’s disease pathogenesis.  I acquired a strong experience working with CRISPR/Cas9 technology, with the culture of pluripotent stem cells (human ESC and PSC) and their use for disease-modeling strategies, including the generation of neuronal and glial derivatives. Recently, I have been awarded with a Margarita Salas Postdoctoral Fellowship to develop my research activities at the UPF and UB. My scientific interest is to identify a relevant phenotype in customized brain organoids from individuals at high and low risk for late onset Alzheimer's disease, in order to shed light into the molecular and cellular mechanisms underlying the genetic susceptibility to develop Alzheimer's disease.</p> Find more about me <a href='https://www.linkedin.com/in/laura-garc%C3%ADa-gonz%C3%A1lez-493431101/'>here</a>!",
+    "photo":"http://drive.google.com/uc?export=view&id=1DWYlZUr8HdNThhZ81lNQ8Y2iwNdqsMJA"
+  },
+  "isa": {
+    "name": "ISABEL TURPÍN",
+    "role": "Lab manager",
+    "bio": "<p>I am a scientist with a background in biology and genetics specialized in stem cells, and interested mainly in the human brain and its neurological disorders. I studied Biochemistry and a master's in Genetics and Genomics at Universitat de Barcelona followed by a master's in Bioinformatics and Biostatistics at UOC. Now, I am mostly working with iPSCs and brain 3D models (organoids), trying to link phenotypic in vitro traits with their genetic features. </p> Find more about me <a href='https://www.linkedin.com/in/isabel-turp%C3%ADn-71bb5a201/'>here</a>!",
+    "photo":"http://drive.google.com/uc?export=view&id=1DWYlZUr8HdNThhZ81lNQ8Y2iwNdqsMJA"
+  },
+  "andrea": {
+    "name": "ANDREA MARTÍ",
+    "role": "PhD Student",
+    "bio": "<p>I am a scientist highly interested in understanding the human brain. I studied Biochemistry and Biomedical Sciences at the University of Valencia and I early realized that neuroscience was the area I enjoyed the most, so after trying different jobs and getting over a pandemic here I am, doing a Ph.D. and trying to model genetic risk for Alzheimer’s disease using brain organoids.</p>Find more about me <a href='https://www.linkedin.com/in/andreamartisarrias/'>here</a>!",
+    "photo":"http://drive.google.com/uc?export=view&id=1DWYlZUr8HdNThhZ81lNQ8Y2iwNdqsMJA"
+  },
+  "adriana": {
+    "name": "ADRIANA MODREGO",
+    "role": "PhD Student",
+    "bio": "<p>I am a biomedical engineer interested in medicine transformation through the latest and innovative technologies. During my bachelor’s degree, I acquired comprehensive knowledge in the (bio)-medical and the technological field. Then, I decided to focus on Artificial Intelligence and how medicine could take a profit from it. In the lab, I am taking my first steps as a researcher and I work joining computer vision and Artificial Intelligence techniques with organoids to deal with the lack of knowledge regarding neurological treatment effectiveness.</p> Find more about me <a href='https://www.linkedin.com/in/adriana-modrego-munoz/'>here</a>!",
+    "photo":"http://drive.google.com/uc?export=view&id=1DWYlZUr8HdNThhZ81lNQ8Y2iwNdqsMJA"
+  },
+  "tfg1": {
+    "name": "MONTSE ENRECH",
+    "role": "TFG Student",
+    "bio": "write here",
+    "photo":"http://drive.google.com/uc?export=view&id=1DWYlZUr8HdNThhZ81lNQ8Y2iwNdqsMJA"
+  }
+}

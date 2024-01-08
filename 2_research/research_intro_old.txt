@@ -1,0 +1,5 @@
+<p>Dr. Acosta's group focuses on deciphering how the human brain forms and gets sick from a molecular perspective. Human brain is arguably the most sophisticated organ in the human body, forman my more than 86 billion types of neurons, and similar numbers of glial cells. Brain cells are originated from the neural tube during developmental stages, and the process of formation of the plethora of cellular identities is tightly coordinated in an spatio-temporal manner. On the roots of the fate coordination we find gene regulatory networks.</p>
+
+<p>The Funtional Neurogenomics team is centered in understanding the functional epigenomic mechanisms coordinating fate decision in the human brain development, and the analysis of the function of the resulting identities using human brain organoids as a model.</p>
+
+<p>The Functional Neurodevelopment and genomics lab leverage the advantages of the human brain organoids to explore 4 main questions, that define the strategic scientific goals of the lab.</p>
